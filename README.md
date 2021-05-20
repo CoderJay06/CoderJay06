@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on group projects.
 - 🤔 I’m looking for help with making new connections :)
 - 💬 Ask me about anything.
-- 📫 How to reach me: [![Linkdein](https://www.linkedin.com/in/jason-j-cruz/)]
+- 📫 How to reach me: [Linkdein](https://www.linkedin.com/in/jason-j-cruz/)
 - ⚡ Fun fact: 
 
 
