@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with making new connections :)
 - 💬 Ask me about anything.
 - 📫 How to reach me: [Linkdein](https://www.linkedin.com/in/jason-j-cruz/)
+- 📜 Checkout my [Blog](https://coderjay06.github.io/)
 - ⚡ Fun fact: 
 
 
