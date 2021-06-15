@@ -8,8 +8,8 @@
 - 👯 I’m looking to collaborate on group projects.
 - 🤔 I’m looking for help with making new connections :)
 - 💬 Ask me about anything.
-- 📫 How to reach me: [Linkdein](https://www.linkedin.com/in/jason-j-cruz/)
-- 📜 Checkout my [Blog](https://coderjay06.github.io/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jason-j-cruz/)
+- 📜 Checkout my Blog on [Medium](https://jay-cruz.medium.com/) or [Dev.to](https://dev.to/coderjay06)
 - ⚡ Fun fact: I'm a big boxing fan and used to compete but decided to trade throwing punches 🥊 for writing code 👨‍💻!
 
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderJay06&show_icons=true&theme=radical)
