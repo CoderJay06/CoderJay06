@@ -14,6 +14,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Custom Hooks in React](https://dev.to/coderjay06/custom-hooks-in-react-5981)
+- [The B.U.D Technique](https://jay-cruz.medium.com/the-b-u-d-technique-2c9a49e162b2?source=rss-530d9586f2f------2)
+- [The B.U.D Technique](https://dev.to/coderjay06/the-b-u-d-technique-5ann)
+- [Custom Hooks in React](https://jay-cruz.medium.com/custom-hooks-in-react-442d7fe5da26?source=rss-530d9586f2f------2)
+- [Render Props](https://jay-cruz.medium.com/render-props-9ede685bf286?source=rss-530d9586f2f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
