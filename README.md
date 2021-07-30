@@ -17,11 +17,11 @@ ________________________________________________________________________________
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The three A’s of Unit Testing](https://jay-cruz.medium.com/the-three-as-of-unit-testing-3b8b4bf0d087?source=rss-530d9586f2f------2)
 - [Four Rules for Big O](https://blog.devgenius.io/four-rules-for-big-o-1a90443c22eb?source=rss-530d9586f2f------2)
 - [The B.U.D Technique](https://jay-cruz.medium.com/the-b-u-d-technique-2c9a49e162b2?source=rss-530d9586f2f------2)
 - [Custom Hooks in React](https://jay-cruz.medium.com/custom-hooks-in-react-442d7fe5da26?source=rss-530d9586f2f------2)
 - [Render Props](https://jay-cruz.medium.com/render-props-9ede685bf286?source=rss-530d9586f2f------2)
-- [Higher-Order Components in React](https://jay-cruz.medium.com/higher-order-components-in-react-5baf321f104?source=rss-530d9586f2f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
