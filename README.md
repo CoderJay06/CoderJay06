@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Reverse a Singly Linked List in Javascript (Iteratively and Recursively)](https://jay-cruz.medium.com/reverse-a-singly-linked-list-in-javascript-iteratively-and-recursively-566ebf7dfd0d?source=rss-530d9586f2f------2)
+- [Reverse a Singly Linked List in Javascript (Iteratively and Recursively)](https://javascript.plainenglish.io/reverse-a-singly-linked-list-in-javascript-iteratively-and-recursively-566ebf7dfd0d?source=rss-530d9586f2f------2)
 - [Persist Data Client-side with localStorage](https://javascript.plainenglish.io/persisting-data-client-side-with-localstorage-f72d96dba7b9?source=rss-530d9586f2f------2)
 - [The three A’s of Unit Testing](https://blog.devgenius.io/the-three-as-of-unit-testing-3b8b4bf0d087?source=rss-530d9586f2f------2)
 - [Four Rules for Big O](https://blog.devgenius.io/four-rules-for-big-o-1a90443c22eb?source=rss-530d9586f2f------2)
