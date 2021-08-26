@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to build a Modal](https://jay-cruz.medium.com/how-to-build-a-modal-8ed6a70642d9?source=rss-530d9586f2f------2)
+- [How to build a Modal](https://medium.com/geekculture/how-to-build-a-modal-8ed6a70642d9?source=rss-530d9586f2f------2)
 - [Binary Search Tree Traversals (Inorder, Preorder, and Postorder)](https://medium.com/codex/binary-search-tree-traversals-inorder-preorder-and-postorder-6f458e10dbb0?source=rss-530d9586f2f------2)
 - [Reverse a Singly Linked List in JavaScript (Iteratively and Recursively)](https://javascript.plainenglish.io/reverse-a-singly-linked-list-in-javascript-iteratively-and-recursively-566ebf7dfd0d?source=rss-530d9586f2f------2)
 - [Persist Data Client-side with localStorage](https://javascript.plainenglish.io/persisting-data-client-side-with-localstorage-f72d96dba7b9?source=rss-530d9586f2f------2)
