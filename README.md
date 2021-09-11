@@ -17,11 +17,11 @@ ________________________________________________________________________________
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Get started with Material UI for React apps](https://jay-cruz.medium.com/get-started-with-material-ui-for-react-apps-feacedced55a?source=rss-530d9586f2f------2)
 - [How to Build a Search Bar with JavaScript](https://javascript.plainenglish.io/how-to-build-a-search-bar-7d8a8a3d9d00?source=rss-530d9586f2f------2)
 - [How to build a Modal](https://medium.com/geekculture/how-to-build-a-modal-8ed6a70642d9?source=rss-530d9586f2f------2)
 - [Binary Search Tree Traversals (Inorder, Preorder, and Postorder)](https://medium.com/codex/binary-search-tree-traversals-inorder-preorder-and-postorder-6f458e10dbb0?source=rss-530d9586f2f------2)
 - [Reverse a Singly Linked List in JavaScript (Iteratively and Recursively)](https://javascript.plainenglish.io/reverse-a-singly-linked-list-in-javascript-iteratively-and-recursively-566ebf7dfd0d?source=rss-530d9586f2f------2)
-- [Persist Data Client-side with localStorage](https://javascript.plainenglish.io/persisting-data-client-side-with-localstorage-f72d96dba7b9?source=rss-530d9586f2f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
