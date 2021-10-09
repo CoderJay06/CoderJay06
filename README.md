@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [What is BGP?](https://jay-cruz.medium.com/what-is-bgp-1cf6bda5fb3c?source=rss-530d9586f2f------2)
+- [What is BGP?](https://blog.devgenius.io/what-is-bgp-1cf6bda5fb3c?source=rss-530d9586f2f------2)
 - [How to use the FormData object](https://javascript.plainenglish.io/how-to-use-the-formdata-object-bb856096d0c4?source=rss-530d9586f2f------2)
 - [The background-blend-mode property in CSS](https://javascript.plainenglish.io/the-background-blend-mode-property-ece505bc2580?source=rss-530d9586f2f------2)
 - [Optimize Fibonacci with Dynamic Programming](https://javascript.plainenglish.io/optimize-fibonacci-with-dynamic-programming-2b31e72c5e03?source=rss-530d9586f2f------2)
