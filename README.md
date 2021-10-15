@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Short circuit evaluation](https://jay-cruz.medium.com/short-circuit-evaluation-667d01b54172?source=rss-530d9586f2f------2)
+- [Short circuit evaluation](https://javascript.plainenglish.io/short-circuit-evaluation-667d01b54172?source=rss-530d9586f2f------2)
 - [What is BGP?](https://blog.devgenius.io/what-is-bgp-1cf6bda5fb3c?source=rss-530d9586f2f------2)
 - [How to use the FormData object](https://javascript.plainenglish.io/how-to-use-the-formdata-object-bb856096d0c4?source=rss-530d9586f2f------2)
 - [The background-blend-mode property in CSS](https://javascript.plainenglish.io/the-background-blend-mode-property-ece505bc2580?source=rss-530d9586f2f------2)
