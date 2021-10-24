@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Destructuring nested Javascript objects](https://javascript.plainenglish.io/destructuring-nested-javascript-objects-7b9043a199b6?source=rss-530d9586f2f------2)
+- [How to Destructure Nested JavaScript Objects](https://javascript.plainenglish.io/destructuring-nested-javascript-objects-7b9043a199b6?source=rss-530d9586f2f------2)
 - [Short Circuit Evaluation in JavaScript](https://javascript.plainenglish.io/short-circuit-evaluation-667d01b54172?source=rss-530d9586f2f------2)
 - [What is BGP?](https://blog.devgenius.io/what-is-bgp-1cf6bda5fb3c?source=rss-530d9586f2f------2)
 - [How to use the FormData object](https://javascript.plainenglish.io/how-to-use-the-formdata-object-bb856096d0c4?source=rss-530d9586f2f------2)
