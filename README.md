@@ -19,7 +19,7 @@ ________________________________________________________________________________
 <!-- BLOG-POST-LIST:START -->
 - [How to build a Carousel from scratch](https://javascript.plainenglish.io/how-to-build-a-carousel-from-scratch-2e32753a5e80?source=rss-530d9586f2f------2)
 - [How Maps solve the limitations of Objects in JavaScript](https://javascript.plainenglish.io/how-maps-make-up-for-limitations-of-objects-in-javascript-6c71f6e61af0?source=rss-530d9586f2f------2)
-- [Merging objects in Javascript](https://javascript.plainenglish.io/merging-objects-in-javascript-bcf3ca17753f?source=rss-530d9586f2f------2)
+- [How to Merge Objects in JavaScript](https://javascript.plainenglish.io/merging-objects-in-javascript-bcf3ca17753f?source=rss-530d9586f2f------2)
 - [How to Destructure Nested JavaScript Objects](https://javascript.plainenglish.io/destructuring-nested-javascript-objects-7b9043a199b6?source=rss-530d9586f2f------2)
 - [Short Circuit Evaluation in JavaScript](https://javascript.plainenglish.io/short-circuit-evaluation-667d01b54172?source=rss-530d9586f2f------2)
 <!-- BLOG-POST-LIST:END -->
