@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a dark mode toggle with Javascript and localStorage](https://javascript.plainenglish.io/build-a-dark-mode-toggle-with-javascript-and-localstorage-8022b492fb9e?source=rss-530d9586f2f------2)
+- [Build a Dark Mode Toggle with JavaScript and localStorage](https://javascript.plainenglish.io/build-a-dark-mode-toggle-with-javascript-and-localstorage-8022b492fb9e?source=rss-530d9586f2f------2)
 - [How to build a Carousel from scratch](https://javascript.plainenglish.io/how-to-build-a-carousel-from-scratch-2e32753a5e80?source=rss-530d9586f2f------2)
 - [How Maps solve the limitations of Objects in JavaScript](https://javascript.plainenglish.io/how-maps-make-up-for-limitations-of-objects-in-javascript-6c71f6e61af0?source=rss-530d9586f2f------2)
 - [How to Merge Objects in JavaScript](https://javascript.plainenglish.io/merging-objects-in-javascript-bcf3ca17753f?source=rss-530d9586f2f------2)
