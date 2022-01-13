@@ -10,6 +10,7 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jason-j-cruz/)
 - 📜 Checkout my Blog on [Medium](https://jay-cruz.medium.com/) or [Dev.to](https://dev.to/coderjay06)
+- 💼 Checkout my portfolio [here](https://jaycruz.dev/)
 - ⚡ Fun fact: I'm a big boxing fan and used to compete but decided to trade throwing punches 🥊 for writing code! 👨‍💻
 
 ___________________________________________________________________________________________________________________________________________________________
