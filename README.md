@@ -3,7 +3,7 @@
 
 ### 👋
 
-- 🔭 I’m currently working on my portfolio and honing my Javascript skills.
+- 🔭 I’m currently working as a Fulltime Software Engineer👨‍💻
 - 🌱 I’m currently learning Functional programming in Javascript, React and Redux.
 - 👯 I’m looking to collaborate on group projects.
 - 🤔 I’m looking for help with making new connections :)
