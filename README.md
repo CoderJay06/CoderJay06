@@ -4,8 +4,7 @@
 ### 👋
 
 - 🔭 I’m currently working as a Fulltime Software Engineer👨‍💻
-- 🌱 I’m currently learning Functional programming in Javascript, React and Redux.
-- 👯 I’m looking to collaborate on group projects.
+- 🌱 I’m currently learning AI 🤖
 - 🤔 I’m looking for help with making new connections :)
 - 💬 Ask me about anything.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jason-j-cruz/)
